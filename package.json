@@ -1,0 +1,19 @@
+{
+  "name": "postcss-b64i",
+  "version": "0.1.2",
+  "description": "postcss plugin insert inline base64 assets file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "base64",
+    "inline"
+  ],
+  "author": "Max Kostjukevich",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5.2.5"
+  }
+}
