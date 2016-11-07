@@ -1,6 +1,6 @@
 {
   "name": "postcss-b64i",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "postcss plugin insert inline base64 assets file",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "base64",
     "inline"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxicms/postcss-b64i"
+  },
   "author": "Max Kostjukevich",
   "license": "MIT",
   "dependencies": {
